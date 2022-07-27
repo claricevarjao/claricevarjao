@@ -1,7 +1,7 @@
 <h1> Olá 👋 meu nome é Clarice </h1>
 
 - 🧐  Explorando novas tecnologias e desenvolvendo soluções de software;
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.impacta.edu.br/sobre">Faculdade Imacta</a>;
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.impacta.edu.br/sobre">Faculdade Impacta</a>;
 - 👩‍💻  Aprendendo mais sobre **Desenvolvimento FrontEnd**.
 
 <h2> 🚀   Habilidades</h2>
